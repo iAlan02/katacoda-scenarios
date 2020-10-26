@@ -1,1 +1,1 @@
-You now know how to clone a repo!
+You now know how to start a git working tree!

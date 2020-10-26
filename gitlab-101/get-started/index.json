@@ -11,6 +11,18 @@
             {
                 "title": "Make a change",
                 "text": "step2.md"
+            },
+            {
+                "title": "Stage the change",
+                "text": "step3.md"
+            },
+            {
+                "title": "Commit the change",
+                "text": "step4.md"
+            },
+            {
+                "title": "Push the change",
+                "text": "step5.md"
             }
         ],
         "intro": {

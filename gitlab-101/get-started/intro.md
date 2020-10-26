@@ -1,1 +1,2 @@
-Lets see how to clone a repo!
+
+Let's start with the basics! 
