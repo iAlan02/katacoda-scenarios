@@ -1,0 +1,11 @@
+{
+  "title": "gitlab-101",
+  "description": "Course to understand GitLab basics",
+  "courses": [
+    {
+      "course_id": "git-clone",
+      "title": "Git clone",
+      "description": "How to clone"
+    }
+  ]
+}
