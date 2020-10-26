@@ -1,0 +1,29 @@
+{
+    "title": "Getting started",
+    "description": "Let's walk through the steps using GitLab and terminal to create a new project and use this workflow",
+    "difficulty": "Beginner",
+    "time": "10 minutes",
+    "details": {
+        "steps": [{
+                "title": "Clone a project",
+                "text": "step1.md"
+            },
+            {
+                "title": "Make a change",
+                "text": "step2.md"
+            }
+        ],
+        "intro": {
+            "text": "intro.md"
+        },
+        "finish": {
+            "text": "finish.md"
+        }
+    },
+    "environment": {
+        "uilayout": "terminal"
+    },
+    "backend": {
+        "imageid": "git"
+    }
+}

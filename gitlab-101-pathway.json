@@ -2,8 +2,8 @@
     "title": "Git 101",
     "description": "Course to understand git basics",
     "courses": [{
-        "course_id": "git-clone",
-        "title": "Git clone",
-        "description": "How to clone"
+        "course_id": "get-started",
+        "title": "Getting started",
+        "description": "Walk through first and basic steps using git"
     }]
 }
