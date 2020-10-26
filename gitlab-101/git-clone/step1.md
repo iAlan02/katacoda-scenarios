@@ -1,4 +1,4 @@
-This is your first step.
+We will clone a project repository.
 
 ## Task
 
@@ -10,4 +10,5 @@ Now lets clone an existing repository using the following command:
 
 `git clone https://gitlab.com/RUCA93/exercise`{{execute}}
 
-If we run `ls`{{execute}} we can see that there's now a folder with the cloned project.
+If we run `ls ./exercise`{{execute}} we can see that there's now a folder with the cloned project
+and inside of that folder there's a **README.md** file already created.
