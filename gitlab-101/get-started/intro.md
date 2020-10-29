@@ -1,4 +1,4 @@
-## Welcome!
+## Welcome
 
 We'll take a look over how:
 
