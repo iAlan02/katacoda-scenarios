@@ -8,6 +8,6 @@ First lets run `ls`{{execute}} to see we are over an empty directory.
 
 Now let's clone an existing repository using the following command:
 
-`git clone https://gitlab.com/git1011/exercise`{{execute}}
+`git clone /home/scrapbook/tutorial/git/my-remote/project`{{execute}}
 
 If we run `ls`{{execute}} we can see that there's now a folder with the cloned project.
