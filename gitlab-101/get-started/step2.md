@@ -3,7 +3,7 @@
 ## Task
 
 We need to navigate inside the project folder.
-`cd exercise`{{execute}}
+`cd project`{{execute}}
 
 Then we'll create a new file, feel free to add any number of files.
 `touch new-file`{{execute}}
