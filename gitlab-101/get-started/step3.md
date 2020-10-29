@@ -2,6 +2,8 @@ Git uses a staging area to track files and changes before commit.
 
 ## Task
 
-Using `git add .`{{execute}} we can stage our changes in order to commit them.
+We can stage our changes in order to commit them.
+`git add .`{{execute}}
 
-Running `git status`{{execute}} git will show that our file is now staged.
+Git will show that our file is now staged.
+`git status`{{execute}}

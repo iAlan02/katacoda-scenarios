@@ -2,6 +2,8 @@ When we have something in the staging area, git recognizes that there's somethin
 
 ## Task
 
-We can commit the file now using a meaningful commit message with `git commit -m "Adding in a test file"`{{execute}}.
+We can commit the file now using a meaningful commit message.
+`git commit -m "Adding in a test file"`{{execute}}
 
-If we run `git status`{{execute}} again it will show that there's nothing more to commit.
+Now we can see that there's nothing more to commit.
+`git status`{{execute}}
