@@ -2,7 +2,7 @@ We will clone a project repository.
 
 ## Task
 
-We'll be cloning an empty project named _exercise_.
+We'll be cloning an empty project.
 
 First lets run `ls`{{execute}} to see we are over an empty directory.
 
