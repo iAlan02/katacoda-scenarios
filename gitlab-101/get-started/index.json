@@ -15,7 +15,8 @@
             },
             {
                 "title": "Stage the change",
-                "text": "step3.md"
+                "text": "step3.md",
+                "courseData": "background-step3.sh"
             },
             {
                 "title": "Commit the change",
