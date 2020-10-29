@@ -1,4 +1,4 @@
-When we have something in the staging area, git recognizes that there's something to be commited.
+# When we have something in the staging area, git recognizes that there's something to be committed
 
 ## Task
 

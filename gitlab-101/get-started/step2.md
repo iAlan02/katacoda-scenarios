@@ -1,4 +1,4 @@
-Now we'll create a new file inside our project folder
+# Now we'll create a new file inside our project folder
 
 ## Task
 

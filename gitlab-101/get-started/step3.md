@@ -1,4 +1,4 @@
-Git uses a staging area to track files and changes before commit.
+# Git uses a staging area to track files and changes before commit
 
 ## Task
 
