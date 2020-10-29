@@ -1,6 +1,6 @@
 {
     "title": "Git 101",
-    "description": "Course to understand git basics",
+    "description": "Understanding git basics",
     "courses": [{
         "course_id": "get-started",
         "title": "Getting started",
