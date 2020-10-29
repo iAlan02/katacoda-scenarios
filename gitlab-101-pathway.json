@@ -2,8 +2,14 @@
     "title": "Git 101",
     "description": "Understanding git basics",
     "courses": [{
-        "course_id": "get-started",
-        "title": "Getting started",
-        "description": "Walk through first and basic steps using git"
-    }]
+            "course_id": "get-started",
+            "title": "Getting started",
+            "description": "Walk through first and basic steps using git"
+        },
+        {
+            "course_id": "branch-and-merge",
+            "title": "Branch and merge",
+            "description": "Let's now put our changes into a branch"
+        }
+    ]
 }

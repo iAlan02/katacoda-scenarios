@@ -10,4 +10,4 @@ We'll take a look over how:
 
 # Push our changes
 
-Let's start with the basics!
+Let's start rolling it!
