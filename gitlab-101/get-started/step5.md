@@ -2,7 +2,7 @@
 
 ## Task
 
-We will send our changes to the origin(remote) server.
-`git push origin master`{{execute}}
+We will send our changes to the origin(remote) server.  
+`git push origin master`{{execute}}  
 
 ## In practice we shouldn't be pushing directly to master

@@ -26,6 +26,6 @@
         "uimessage1": "\u001b[32mHere you can type the commands\u001b[m\r\n"
     },
     "backend": {
-        "imageid": "git"
+        "imageid": "bash"
     }
 }

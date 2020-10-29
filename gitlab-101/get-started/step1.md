@@ -2,15 +2,15 @@
 
 ## Task
 
-We'll be cloning an empty project.
+We'll be cloning an empty project.  
 
-Note that in this case we are using a different directory as remote repository, but we can host our projects over GitLab or Github, replacing the path with the URL of the project repository.
+Note that in this case we are using a different directory as remote repository, but we can host our projects over GitLab or Github, replacing the path with the URL of the project repository.  
 
-First let's make sure that we are over the folder we want to be working an that it's empty directory.
-`cd /home/scrapbook/tutorial/git/my-local/ && ls`{{execute}}
+First let's make sure that we are over the folder we want to be working an that it's empty directory.  
+`cd /home/scrapbook/tutorial/git/my-local/ && ls`{{execute}}  
 
-Now let's clone an existing repository.
-`git clone /home/scrapbook/tutorial/git/my-remote/project`{{execute}}
+Now let's clone an existing repository.  
+`git clone /home/scrapbook/tutorial/git/my-remote/project`{{execute}}  
 
-We can see that there's now a folder with the cloned project.
-`ls`{{execute}}
+We can see that there's now a folder with the cloned project.  
+`ls`{{execute}}  

@@ -2,8 +2,8 @@
 
 ## Task
 
-We can stage our changes in order to commit them.
-`git add .`{{execute}}
+We can stage our changes in order to commit them.  
+`git add .`{{execute}}  
 
-Git will show that our file is now staged.
-`git status`{{execute}}
+Git will show that our file is now staged.  
+`git status`{{execute}}  
