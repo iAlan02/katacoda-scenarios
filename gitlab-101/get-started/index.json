@@ -6,7 +6,8 @@
     "details": {
         "steps": [{
                 "title": "Clone a project",
-                "text": "step1.md"
+                "text": "step1.md",
+                "code": "env-init.sh"
             },
             {
                 "title": "Make a change",
