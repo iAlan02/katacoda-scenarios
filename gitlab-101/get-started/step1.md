@@ -6,8 +6,8 @@ We'll be cloning an empty project named _exercise_.
 
 First lets run `ls`{{execute}} to see we are over an empty directory.
 
-Now let's clone an existing repository using the following command:
+Now let's clone an existing repository using `git clone /home/scrapbook/tutorial/git/my-remote/project`{{execute}}
 
-`git clone /home/scrapbook/tutorial/git/my-remote/project`{{execute}}
+Note that in this case we are using a different directory as remote repository, but we can host our projects over GitLab or Github, replacing the path with the URL of the project repository.
 
 If we run `ls`{{execute}} we can see that there's now a folder with the cloned project.
