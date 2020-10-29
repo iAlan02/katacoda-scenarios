@@ -5,10 +5,15 @@
     "time": "10 minutes",
     "details": {
         "steps": [{
-            "title": "Create a branch",
-            "text": "step1.md",
-            "courseData": "background-step1.sh"
-        }],
+                "title": "Create a branch",
+                "text": "step1.md",
+                "courseData": "background-step1.sh"
+            },
+            {
+                "title": "Commit the branch",
+                "text": "step2.md"
+            }
+        ],
         "intro": {
             "text": "intro.md"
         },
