@@ -15,7 +15,8 @@
             },
             {
                 "title": "Merge the branch",
-                "text": "step3.md"
+                "text": "step3.md",
+                "courseData": "background-step3.sh"
             }
         ],
         "intro": {
