@@ -1,13 +1,13 @@
-## Welcome
+# Welcome
 
 We'll take a look over how:
 
-# Clone a repository
+## Clone a repository
 
-# Stage our changes
+## Stage our changes
 
-# Commit our changes
+## Commit our changes
 
-# Push our changes
+## Push our changes
 
 Let's start rolling it!
