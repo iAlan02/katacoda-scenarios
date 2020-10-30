@@ -7,7 +7,8 @@
         "steps": [{
                 "title": "Create a branch",
                 "text": "step1.md",
-                "courseData": "background-step1.sh"
+                "courseData": "background-step1.sh",
+                "course": "foreground-step1.sh"
             },
             {
                 "title": "Commit the branch",
@@ -16,7 +17,8 @@
             {
                 "title": "Merge the branch",
                 "text": "step3.md",
-                "courseData": "background-step3.sh"
+                "courseData": "background-step3.sh",
+                "course": "foreground-step3.sh"
             }
         ],
         "intro": {
