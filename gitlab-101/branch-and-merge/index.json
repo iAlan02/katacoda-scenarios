@@ -6,9 +6,7 @@
     "details": {
         "steps": [{
                 "title": "Create a branch",
-                "text": "step1.md",
-                "courseData": "background-step1.sh",
-                "course": "foreground-step1.sh"
+                "text": "step1.md"
             },
             {
                 "title": "Commit the branch",
@@ -22,7 +20,8 @@
             }
         ],
         "intro": {
-            "text": "intro.md"
+            "text": "intro.md",
+            "courseData": "env-init.sh"
         },
         "finish": {
             "text": "finish.md"
