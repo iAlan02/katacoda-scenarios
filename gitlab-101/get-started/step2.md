@@ -3,12 +3,12 @@
 ## Task
 
 We need to navigate inside the project folder.  
-`cd project`{{execute}}  
+`cd project`  
 
 Then we'll create a new file, feel free to add any number of files.  
-`touch new-file`{{execute}}  
+`touch new-file`  
 
 We can see that the new file untracked in the repository.  
-`git status`{{execute}}  
+`git status`  
 
 Git recognizes that we've created a new file, but it is currently untracked and git doesn't know about it.

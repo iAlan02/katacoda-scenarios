@@ -14,4 +14,4 @@ Here we can take a look over the changes, in this case we'll see the new file ad
 ![Review merge](./assets/mergerequest_3.png)  
 
 Now our branches are updated and over the same point in the history.
-`git log --oneline --graph --color --all --decorate`{{execute}}  
+`git log --oneline --graph --color --all --decorate`  
