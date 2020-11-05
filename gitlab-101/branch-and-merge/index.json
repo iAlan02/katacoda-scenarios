@@ -17,6 +17,10 @@
                 "text": "step3.md",
                 "courseData": "step3-background.sh",
                 "code": "step3-foreground.sh"
+            },
+            {
+                "title": "Adding hello world",
+                "text": "step4.md"
             }
         ],
         "intro": {
