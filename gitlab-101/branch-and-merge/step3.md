@@ -13,5 +13,11 @@ Once we click on continue we will see a merge request form where we can detail o
 Here we can take a look over the changes, in this case we'll see the new file added.  
 ![Review merge](./assets/mergerequest_3.png)  
 
+We can see in the console how it runs using commands just for this example case.
+
 Now our branches are updated and over the same point in the history.
 `git log --oneline --graph --color --all --decorate`  
+
+![Branches merge](./assets/mergerequest_4.png)  
+
+The 1 | 0 here shows that add-file-2 is **one commit behind and zero commits ahead of master**.

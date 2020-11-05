@@ -10,6 +10,11 @@
             "course_id": "branch-and-merge",
             "title": "Branch and merge",
             "description": "Let's now put our changes into a branch"
+        },
+        {
+            "course_id": "rebase",
+            "title": "The art of rebase",
+            "description": "Integrating the changes into a single patch"
         }
     ]
 }
