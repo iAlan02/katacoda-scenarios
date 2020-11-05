@@ -2,7 +2,7 @@
 
 ## Task
 
-First we need to request a merge.  
+First we need to **request a merge**.  
 ![Merge request](./assets/mergerequest_1.png)  
 
 And then we need to chose our source and target branch.  
