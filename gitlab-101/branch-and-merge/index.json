@@ -21,7 +21,7 @@
             {
                 "title": "Adding hello world",
                 "text": "step4.md",
-                "code": "step4-background.sh"
+                "courseData": "step4-background.sh"
             }
         ],
         "intro": {
