@@ -15,7 +15,7 @@ Here we can take a look over the changes, in this case we'll see the new file ad
 
 We can see in the console how it runs using commands just for this example case.
 
-Now our branches are updated and over the same point in the history.
+Now our branches are updated and over the same point in the history.  
 `git log --oneline --graph --color --all --decorate`  
 
 ![Branches merge](./assets/mergerequest_4.png)  

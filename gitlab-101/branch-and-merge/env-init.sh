@@ -1,6 +1,3 @@
-sudo apt-get update
-sudo apt-get install ruby
-
 mkdir -p /home/scrapbook/tutorial/git/my-remote/project
 
 mkdir -p /home/scrapbook/tutorial/git/my-local/
@@ -26,3 +23,6 @@ git add .
 git commit -m "Adding in a test file"
 
 git push origin master
+
+sudo apt-get update
+sudo apt-get install ruby

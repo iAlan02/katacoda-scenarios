@@ -6,9 +6,9 @@ First we'll ad a new branch.
 `git checkout -b add-hello-world`
 
 And the a file with code in there.
-`cat <<EOF>> hello.rb`
-`puts "Hello, World!"`
-`EOF`
+`cat <<EOF>> hello.rb`  
+`puts "Hello, World!"`  
+`EOF`  
 
 Let's run it!  
 `ruby hello.rb`
