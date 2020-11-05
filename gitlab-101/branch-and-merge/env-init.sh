@@ -1,11 +1,3 @@
-echo "Updating" 
-
-apt-get update
-
-echo "Installing" 
-
-apt-get install ruby
-
 mkdir -p /home/scrapbook/tutorial/git/my-remote/project
 
 mkdir -p /home/scrapbook/tutorial/git/my-local/
