@@ -1,3 +1,6 @@
+sudo apt-get update
+sudo apt-get install ruby
+
 mkdir -p /home/scrapbook/tutorial/git/my-remote/project
 
 mkdir -p /home/scrapbook/tutorial/git/my-local/
