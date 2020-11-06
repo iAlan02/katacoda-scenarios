@@ -19,7 +19,7 @@
             {
                 "title": "Working as developer 2",
                 "text": "step4.md",
-                "courseData": "step4-background.sh"
+                "code": "step4-background.sh"
             }
         ],
         "intro": {

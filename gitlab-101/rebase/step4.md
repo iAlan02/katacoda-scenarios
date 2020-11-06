@@ -2,15 +2,26 @@
 
 ## Tasks
 
-We need to create our working space first.
+Once the merge gets done let's start.
+
+We need to create our working space first.  
+
 `mkdir -p /home/scrapbook/tutorial/git/my-local-2`  
 `cd /home/scrapbook/tutorial/git/my-local-2`  
 
 And now let's clone the previous project.  
+
 `git clone /home/scrapbook/tutorial/git/my-remote/project && cd project`  
 
-Now let's start working here.
+Now let's start working here.  
+
 `git checkout -b remove-new-file-2`  
 `rm new-file-2`  
 `git add .`  
 `git commit -m 'removing new-file-2 as it is no longer needed'`  
+
+If we now take a look at our branches, we should see that remove-new-file-2 is 1 | 1 (one commit behind and one commit ahead of master). If we try to merge this now, Gitlab will give us a nice error.  
+
+![Chose branch](./assets/mergerequest_8.png)  
+
+There is a big “Rebase” button (don’t click it - there are problems with it in Gitlab 11.2) indicating that we need to rebase before we can merge.  

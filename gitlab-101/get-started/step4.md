@@ -3,7 +3,9 @@
 ## Task
 
 We can commit the file now using a meaningful commit message.  
+
 `git commit -m "Adding in a test file"`  
 
 Now we can see that there's nothing more to commit.  
+
 `git status`  

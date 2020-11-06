@@ -3,9 +3,11 @@
 ## Tasks
 
 Make sure we are over our project folder.  
+
 `cd /home/scrapbook/tutorial/git/my-local/project`  
 
 Let’s make sure we’re up to date on local master with origin/master with a pull.  
+
 `git checkout master`  
 
 `git pull`  

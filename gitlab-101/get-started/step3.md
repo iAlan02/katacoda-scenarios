@@ -5,7 +5,9 @@
 ## Task
 
 We can stage our changes in order to commit them.  
+
 `git add .`  
 
 Git will show that our file is now staged.  
+
 `git status`  
