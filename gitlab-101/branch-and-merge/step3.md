@@ -17,7 +17,7 @@ We can see in the console how it runs using commands just for this example case.
 
 Now our branches are updated and over the same point in the history.  
 
-`git log --oneline --graph --color --all --decorate`  
+`git log --oneline --graph --color --all --decorate`{{execute}}  
 
 ![Branches merge](./assets/mergerequest_4.png)  
 

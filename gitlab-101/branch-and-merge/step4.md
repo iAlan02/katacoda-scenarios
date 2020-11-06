@@ -8,9 +8,9 @@ First we'll ad a new branch.
 
 And the a file with code in there.  
 
-`cat <<EOF>> hello.rb`  
-`puts "Hello, World!"`  
-`EOF`  
+`cat <<EOF>> hello.rb`{{execute}}  
+`puts "Hello, World!"`{{execute}}  
+`EOF`{{execute}}  
 
 Let's run it!  
 
