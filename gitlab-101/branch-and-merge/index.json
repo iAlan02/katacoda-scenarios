@@ -15,7 +15,8 @@
             {
                 "title": "Merge the branch",
                 "text": "step3.md",
-                "courseData": "step3-background.sh"
+                "courseData": "step3-background.sh",
+                "code": "step3-foreground.sh"
             },
             {
                 "title": "Adding hello world",
@@ -28,7 +29,8 @@
             },
             {
                 "title": "Merge commit",
-                "text": "step6.md"
+                "text": "step6.md",
+                "code": "step6-foreground.sh"
             }
         ],
         "intro": {

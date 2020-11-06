@@ -1,11 +1,11 @@
-## Welcome
+# Welcome
 
 We'll take a look over how:
 
-# Create a branch
+## Create a branch
 
-# Push our branch
+## Push our branch
 
-# Merge our branch
+## Merge our branch
 
 Let's start rolling it!
