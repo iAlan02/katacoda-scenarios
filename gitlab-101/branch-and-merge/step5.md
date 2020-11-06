@@ -2,11 +2,8 @@
 
 ## Task
 
-`git add hello.rb`
-
-`git commit -m 'adding in hello world script'`
-
-`git push origin add-hello-world`
-
+`git add hello.rb`{{execute}}
+`git commit -m 'adding in hello world script'`{{execute}}
+`git push origin add-hello-world`{{execute}}
 Origin has our new branch, this is how it looks in GitLab.  
 ![Branches](./assets/mergerequest_5.png)

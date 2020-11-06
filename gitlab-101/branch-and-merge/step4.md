@@ -4,8 +4,7 @@
 
 First we'll ad a new branch.  
 
-`git checkout -b add-hello-world`
-
+`git checkout -b add-hello-world`{{execute}}
 And the a file with code in there.  
 
 `cat <<EOF>> hello.rb`{{execute}}  
@@ -14,6 +13,5 @@ And the a file with code in there.
 
 Let's run it!  
 
-`ruby hello.rb`
-
+`ruby hello.rb`{{execute}}
 Awesome, our amazing script works, we’ve added a new file, we already have new-file and new-file-2.

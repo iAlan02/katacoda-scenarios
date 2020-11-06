@@ -13,6 +13,7 @@ And now let's clone the previous project.
 Back in our original project location (as Developer 1), let’s checkout a new branch, add a new feature, and check it into origin.  
 
 `git checkout -b add-another-script`{{execute}}  
+
 `cat <<EOF > pajamas.rb`{{execute}}  
 `puts 'This script is the cats pajamas!'`{{execute}}  
 `EOF`{{execute}}  
