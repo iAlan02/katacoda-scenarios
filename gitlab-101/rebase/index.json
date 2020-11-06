@@ -5,9 +5,23 @@
     "time": "10 minutes",
     "details": {
         "steps": [{
-            "title": "Create a new feature",
-            "text": "step1.md"
-        }],
+                "title": "Working as developer one",
+                "text": "step1.md"
+            },
+            {
+                "title": "Create a new feature",
+                "text": "step2.md"
+            },
+            {
+                "title": "Commit the changes",
+                "text": "step3.md"
+            },
+            {
+                "title": "Working as developer 2",
+                "text": "step4.md",
+                "courseData": "step4-background.sh"
+            }
+        ],
         "intro": {
             "text": "intro.md",
             "courseData": "env-init.sh"

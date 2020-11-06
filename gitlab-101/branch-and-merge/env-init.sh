@@ -1,9 +1,7 @@
 apt-get --yes update
-
 apt-get --yes install ruby
 
 mkdir -p /home/scrapbook/tutorial/git/my-remote/project
-
 mkdir -p /home/scrapbook/tutorial/git/my-local/
 
 cd /home/scrapbook/tutorial/git/my-remote/project && git --bare init
@@ -23,7 +21,5 @@ git config --global user.name "Dev One"
 touch new-file
 
 git add . 
-
 git commit -m "Adding in a test file"
-
 git push origin master

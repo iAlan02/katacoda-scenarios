@@ -1,10 +1,10 @@
 apt-get --yes update
-
 apt-get --yes install ruby
 
 mkdir -p /home/scrapbook/tutorial/git/my-remote/project
-
 mkdir -p /home/scrapbook/tutorial/git/my-local/
+mkdir -p /home/scrapbook/tutorial/git/my-local-1
+mkdir -p /home/scrapbook/tutorial/git/my-local-2
 
 cd /home/scrapbook/tutorial/git/my-remote/project && git --bare init
 
