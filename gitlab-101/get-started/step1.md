@@ -17,4 +17,5 @@ Now let's clone an existing repository.
 `git clone /home/scrapbook/tutorial/git/my-remote/project`{{execute}}  
 
 We can see that there's now a folder with the cloned project.  
+
 `ls`{{execute}}  
