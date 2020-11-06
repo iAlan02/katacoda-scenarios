@@ -1,3 +1,5 @@
+cd /home/scrapbook/tutorial/git/my-remote/project
+
 git checkout master
 
 git merge add-file-2
