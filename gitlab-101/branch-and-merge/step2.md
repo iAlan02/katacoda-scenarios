@@ -3,7 +3,7 @@
 ## Task
 
 First we need to stage our change.  
-`git add .`
+`git add .`{{execute}}  
 
 And now we can commit and push our changes and branch into our remote repository.  
 
