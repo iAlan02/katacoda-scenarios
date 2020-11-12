@@ -29,7 +29,7 @@
             {
                 "title": "Merge commit",
                 "text": "step6.md",
-                "courseData": "step6-foreground.sh"
+                "courseData": "step6-background.sh"
             }
         ],
         "intro": {
