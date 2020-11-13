@@ -14,6 +14,6 @@ And the a file with code in there.
 
 Let's run it!  
 
-`ruby hello.rb`
+`ruby hello.rb`{{execute}}  
 
 Awesome, our amazing script works, we’ve added a new file, we already have new-file and new-file-2.

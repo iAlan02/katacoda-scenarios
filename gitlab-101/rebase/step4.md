@@ -17,7 +17,7 @@ Now let's start working here.
 
 `git checkout -b remove-new-file-2`{{execute}}  
 `rm new-file-2`{{execute}}  
-`git add .`{{execute}}  
+`git add --all`{{execute}}  
 `git commit -m 'removing new-file-2 as it is no longer needed'`{{execute}}  
 
 If we now take a look at our branches, we should see that remove-new-file-2 is 1 | 1 (one commit behind and one commit ahead of master). If we try to merge this now, Gitlab will give us a nice error.  
