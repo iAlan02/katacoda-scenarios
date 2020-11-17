@@ -20,6 +20,10 @@
                 "title": "Working as developer 2",
                 "text": "step4.md",
                 "code": "step4-foreground.sh"
+            },
+            {
+                "title": "Rebasing master",
+                "text": "step5.md"
             }
         ],
         "intro": {

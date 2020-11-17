@@ -8,8 +8,10 @@ Note that in this case we are using a different directory as remote repository, 
 
 First let's make sure that we are over the folder we want to be working an that it's empty directory.  
 
-`cd /home/scrapbook/tutorial/git/my-local/`{{execute}}
-`ls`{{execute}}
+`cd /home/scrapbook/tutorial/git/my-local/`{{execute}}  
+
+`ls`{{execute}}  
+
 Now let's clone an existing repository.  
 
 `git clone /home/scrapbook/tutorial/git/my-remote/project`{{execute}}  
