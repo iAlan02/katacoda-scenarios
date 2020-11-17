@@ -1,7 +1,7 @@
-sudo add-apt-repository ppa:git-core/ppa
-sudo apt-get --yes update
-sudo apt-get --yes install git
-sudo apt-get --yes install ruby
+add-apt-repository ppa:git-core/ppa
+apt-get --yes update
+apt-get --yes install git
+apt-get --yes install ruby
 
 
 mkdir -p /home/scrapbook/tutorial/git/my-remote/project
