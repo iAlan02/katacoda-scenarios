@@ -24,7 +24,7 @@
             {
                 "title": "Rebasing master",
                 "text": "step5.md",
-                "courseData": "step5-foreground.sh"
+                "code": "step5-foreground.sh"
             }
         ],
         "intro": {
