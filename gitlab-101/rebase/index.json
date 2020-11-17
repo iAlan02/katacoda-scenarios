@@ -4,7 +4,8 @@
     "difficulty": "Beginner",
     "time": "10 minutes",
     "details": {
-        "steps": [{
+        "steps": [
+            {
                 "title": "Working as developer one",
                 "text": "step1.md"
             },
@@ -19,11 +20,11 @@
             {
                 "title": "Working as developer 2",
                 "text": "step4.md",
-                "code": "step4-foreground.sh"
             },
             {
                 "title": "Rebasing master",
-                "text": "step5.md"
+                "text": "step5.md",
+                "courseData": "step5-foreground.sh"
             }
         ],
         "intro": {

@@ -20,8 +20,8 @@ Now let's start working here.
 `git add --all`{{execute}}  
 `git commit -m 'removing new-file-2 as it is no longer needed'`{{execute}}  
 
-If we now take a look at our branches, we should see that remove-new-file-2 is 1 | 1 (one commit behind and one commit ahead of master). If we try to merge this now, Gitlab will give us a nice error.  
+If we now take a look at our branches, we should see that remove-new-file-2 is 1 | 1 (one commit behind and one commit ahead of master). If we try to merge this now, GitLab will give us a nice error.  
 
 ![Chose branch](./assets/mergerequest_8.png)  
 
-There is a big “Rebase” button (don’t click it - there are problems with it in Gitlab 11.2) indicating that we need to rebase before we can merge.  
+There is a big “Rebase” button (don’t click it - there are problems with it in GitLab 11.2) indicating that we need to rebase before we can merge.  
