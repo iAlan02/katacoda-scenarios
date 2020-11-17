@@ -15,7 +15,9 @@ Back in our original project location (as Developer 1), let’s checkout a new b
 `git checkout -b add-another-script`{{execute}}  
 
 `cat <<EOF > pajamas.rb`{{execute}}  
+
 `puts 'This script is the cats pajamas!'`{{execute}}  
+
 `EOF`{{execute}}  
 
 Test it now!  

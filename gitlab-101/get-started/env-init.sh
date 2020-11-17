@@ -1,4 +1,6 @@
-apt-get --yes install git
+sudo add-apt-repository ppa:git-core/ppa
+sudo apt-get --yes update
+sudo apt-get --yes install git
 
 mkdir -p /home/scrapbook/tutorial/git/my-remote/project
 mkdir -p /home/scrapbook/tutorial/git/my-local/
