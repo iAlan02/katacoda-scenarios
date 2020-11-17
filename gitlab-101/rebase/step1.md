@@ -10,4 +10,4 @@ Let’s make sure we’re up to date on local master with origin/master with a p
 
 `git checkout master`{{execute}}  
 
-`git pull`{{execute}}  
+`git pull origin master`{{execute}}  
