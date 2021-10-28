@@ -1,3 +1,4 @@
+#!/bin/bash
 add-apt-repository ppa:git-core/ppa
 apt-get --yes update
 apt-get --yes install git
