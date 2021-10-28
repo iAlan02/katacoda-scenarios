@@ -8,12 +8,10 @@ First we'll ad a new branch.
 
 And the a file with code in there.  
 
-`cat <<EOF>> hello.rb`{{execute}}  
-`puts "Hello, World!"`{{execute}}  
-`EOF`{{execute}}  
+`echo "Hello, World!" > hello.txt`{{execute}}  
 
 Let's run it!  
 
-`ruby hello.rb`{{execute}}  
+`cat hello.txt`{{execute}}  
 
 Awesome, our amazing script works, we’ve added a new file, we already have new-file and new-file-2.
