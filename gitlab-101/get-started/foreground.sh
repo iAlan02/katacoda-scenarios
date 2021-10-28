@@ -1,15 +1,14 @@
 #!/bin/bash
-# add-apt-repository ppa:git-core/ppa
-# apt-get --yes update
-# apt-get --yes install git
+add-apt-repository ppa:git-core/ppa
+apt-get --yes update
+apt-get --yes install git
 
-# mkdir -p /home/scrapbook/tutorial/git/my-remote/project
-# mkdir -p /home/scrapbook/tutorial/git/my-local/
+mkdir -p /home/scrapbook/tutorial/git/my-remote/project
 
-# cd /home/scrapbook/tutorial/git/my-remote/project
+mkdir -p /home/scrapbook/tutorial/git/my-local/
 
-# git --bare init
-# git config --global user.email "dev_one@example.com"
-# git config --global user.name "Dev One"
+cd /home/scrapbook/tutorial/git/my-remote/project
 
-echo "Doing install"
+git --bare init
+git config --global user.email "dev_one@example.com"
+git config --global user.name "Dev One"
