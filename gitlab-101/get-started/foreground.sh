@@ -4,9 +4,7 @@ echo "initializing env"
 
 add-apt-repository ppa:git-core/ppa
 
-apt-get --yes update
-
-apt-get --yes install git
+apt-get --yes update & apt install git
 
 mkdir -p /home/scrapbook/tutorial/git/my-remote/project
 
