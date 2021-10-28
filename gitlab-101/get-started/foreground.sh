@@ -2,8 +2,6 @@
 
 echo "initializing env"
 
-add-apt-repository ppa:git-core/ppa
-
 mkdir -p /home/scrapbook/tutorial/git/my-remote/project
 
 mkdir -p /home/scrapbook/tutorial/git/my-local/
