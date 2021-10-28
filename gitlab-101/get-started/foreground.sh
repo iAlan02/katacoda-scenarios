@@ -1,4 +1,7 @@
 #!/bin/bash
+
+echo "initializing env"
+
 add-apt-repository ppa:git-core/ppa
 
 apt-get --yes update
