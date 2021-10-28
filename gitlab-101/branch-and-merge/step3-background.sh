@@ -1,3 +1,5 @@
+#!/bin/bash
+
 cd /home/scrapbook/tutorial/git/my-remote/project
 
 git checkout master
