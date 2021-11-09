@@ -2,7 +2,7 @@
 
 ## Task
 
-`git add hello.rb`{{execute}}  
+`git add hello.txt`{{execute}}  
 
 `git commit -m 'adding in hello world script'`{{execute}}  
 
