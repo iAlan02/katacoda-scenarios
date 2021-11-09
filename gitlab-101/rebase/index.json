@@ -4,8 +4,7 @@
     "difficulty": "Beginner",
     "time": "10 minutes",
     "details": {
-        "steps": [
-            {
+        "steps": [{
                 "title": "Working as developer one",
                 "text": "step1.md"
             },
@@ -29,7 +28,8 @@
         ],
         "intro": {
             "text": "intro.md",
-            "courseData": "env-init.sh"
+            "courseData": "env-init.sh",
+            "code": "foreground.sh"
         },
         "finish": {
             "text": "finish.md"

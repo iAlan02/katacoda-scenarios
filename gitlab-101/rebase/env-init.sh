@@ -1,11 +1,11 @@
-add-apt-repository ppa:git-core/ppa
-apt-get --yes update
-apt-get --yes install git
-apt-get --yes install ruby
+#!/bin/bash
 
 mkdir -p /home/scrapbook/tutorial/git/my-remote/project
+
 mkdir -p /home/scrapbook/tutorial/git/my-local/
+
 mkdir -p /home/scrapbook/tutorial/git/my-local-1
+
 mkdir -p /home/scrapbook/tutorial/git/my-local-2
 
 cd /home/scrapbook/tutorial/git/my-remote/project && git --bare init
@@ -40,11 +40,10 @@ git push origin master
 git checkout add-file-2
 git checkout -b add-hello-world
 
-cat << EOF >> hello.rb 
-puts "Hello, World!"
-EOF
+`echo "Hello, World!" > hello.txt`{{execute}}  
 
-git add hello.rb
+
+git add hello.txt
 git commit -m 'adding in hello world script'
 git push origin add-hello-world
 git checkout master
