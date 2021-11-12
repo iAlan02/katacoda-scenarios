@@ -18,6 +18,6 @@ First (as Developer 2) we checkout master and pull. A pull ensures we have the l
 
 Git requires a forced push with a rebase as an extra catch to make sure we know what we’re doing.
 
-`git push --force-with-lease origin remove-new-file-2`{{execute}}  
+`git push --set-upstream origin remove-new-file-2`{{execute}}  
 
 If we take a look at our branches now, we should see origin/remove-new-file-2 is now 0 | 1 (zero commits behind master, one ahead).
