@@ -20,6 +20,4 @@ Git requires a forced push with a rebase as an extra catch to make sure we know 
 
 `git push --force-with-lease origin remove-new-file-2`{{execute}}  
 
-If we take a look at our branches now, we should see origin/remove-new-file-2 is now 0 | 1 (zero commits behind master, one ahead).  
-
-![Chose branch](./assets/mergerequest_7.png)  
+If we take a look at our branches now, we should see origin/remove-new-file-2 is now 0 | 1 (zero commits behind master, one ahead).

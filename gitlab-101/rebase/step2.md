@@ -4,6 +4,7 @@
 
 Let's create our new working space.  
 `mkdir -p /home/scrapbook/tutorial/git/my-local-1`{{execute}}  
+
 `cd /home/scrapbook/tutorial/git/my-local-1`{{execute}}  
 
 And now let's clone the previous project.  

@@ -1,24 +1,20 @@
-# We can now merge our branch into master, let's imagine that we are working over GitLab
+# We can now merge our branch into master
 
 ## Task
 
-First we need to **request a merge**.  
-![Merge request](./assets/mergerequest_1.png)  
+We are now on the remote repository, let's manually **execute the merge**, but first we need to be over master branch.  
+`git checkout master`{{execute}}
 
-And then we need to chose our source and target branch.  
-![Chose branch](./assets/mergerequest_2.png)  
+Now let's merge the feature branch.  
+`git merge add-file-2`{{execute}}
 
-Once we click on continue we will see a merge request form where we can detail our changes, we need to be detailed, since is here over the merge request that the code reviews takes place.
+And finally push the changes.
+`git push origin master`{{execute}}
 
-Here we can take a look over the changes, in this case we'll see the new file added.  
-![Review merge](./assets/mergerequest_3.png)  
-
-We can see in the console how it runs using commands just for this example case.
+**This can be done manually in this case because our master branch is not protected**.
 
 Now our branches are updated and over the same point in the history.  
-
+`git checkout add-file-2`{{execute}}
 `git log --oneline --graph --color --all --decorate`{{execute}}  
-
-![Branches merge](./assets/mergerequest_4.png)  
 
 The 1 | 0 here shows that add-file-2 is **one commit behind and zero commits ahead of master**.

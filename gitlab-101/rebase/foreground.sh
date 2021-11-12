@@ -2,4 +2,4 @@
 
 echo "initializing env"
 
-sleep 10
+sleep 5

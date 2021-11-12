@@ -21,15 +21,6 @@
             {
                 "title": "Adding hello world",
                 "text": "step4.md"
-            },
-            {
-                "title": "Adding some cool code",
-                "text": "step5.md"
-            },
-            {
-                "title": "Merge commit",
-                "text": "step6.md",
-                "courseData": "step6-background.sh"
             }
         ],
         "intro": {

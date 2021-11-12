@@ -1,5 +1,5 @@
 echo "Preparing the environment..."
 
-sleep 10
+sleep 5
 
 echo "Ready!" >> /opt/.backgroundfinished

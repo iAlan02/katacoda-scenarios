@@ -8,5 +8,4 @@
 
 `git push origin add-hello-world`{{execute}}  
 
-Origin has our new branch, this is how it looks in GitLab.  
-![Branches](./assets/mergerequest_5.png)
+Origin has our new branch.

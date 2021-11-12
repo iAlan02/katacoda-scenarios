@@ -2,4 +2,6 @@
 
 echo "initializing step"
 
-sleep 10
+sleep 2
+
+echo "step is ready"
