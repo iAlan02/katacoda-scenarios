@@ -7,3 +7,7 @@ This is your second step.
 `unzip awscliv2.zip`{{execute}}
 
 `sudo ./aws/install`{{execute}}
+
+`pip install awscli-local`{{execute}}
+
+`alias awslocal="aws --endpoint-url=http://localhost:4566 --region eu-west-1" >> ~/.bashrc`{{execute}}
