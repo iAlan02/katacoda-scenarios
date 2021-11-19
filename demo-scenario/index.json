@@ -5,9 +5,18 @@
     "time": "2 minutes",
     "details": {
         "steps": [{
-            "title": "Step 1 - Run Command",
-            "text": "step1.md"
-        }],
+                "title": "Step 1 - Install terraform",
+                "text": "step1.md"
+            },
+            {
+                "title": "Step 2 - Install aws-cli and awsLocal",
+                "text": "step2.md"
+            },
+            {
+                "title": "Step 3 - Install aws-cli and awsLocal",
+                "text": "step3.md"
+            }
+        ],
         "intro": {
             "text": "intro.md",
             "credits": ""
