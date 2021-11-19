@@ -10,7 +10,9 @@ Step 3
 
 `cd hello-localstack`{{execute}}
 
-`ls`
+`ls`{{execute}}
+
+`docker-compose up -d`{{execute}}
 
 `cd terraform`{{execute}}
 
