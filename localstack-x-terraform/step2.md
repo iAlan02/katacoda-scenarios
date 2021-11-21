@@ -16,7 +16,7 @@ Run the install program. The installation command uses a file named install in t
 
 `sudo ./aws/install`{{execute}}
 
-For awslocal documentation visit this [repository](https://github.com/Localstack/awscli-local)
+For awslocal documentation visit this [repository](https://github.com/LocalStack/awscli-local)
 
 You can install the awslocal command via pip:
 
