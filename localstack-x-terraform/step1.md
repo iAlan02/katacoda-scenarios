@@ -18,4 +18,4 @@ Update to add the repository, and install the Terraform CLI.
 
 Verify that the installation worked.
 
-`Terraform -help`{{execute}}
+`terraform -help`{{execute}}
