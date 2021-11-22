@@ -18,12 +18,12 @@ We need to run the compose to create the container that will be using with Local
 
 Once we get the container running we can go inside our Terraform folder and start running Terraform commands to create our AWS resources
 
-`cd Terraform`{{execute}}
+`cd terraform`{{execute}}
 
-`Terraform init`{{execute}}
+`terraform init`{{execute}}
 
-`Terraform plan -out plan`{{execute}}
+`terraform plan -out plan`{{execute}}
 
-`Terraform apply "plan"`{{execute}}
+`terraform apply "plan"`{{execute}}
 
 You can visit [hello--LocalStack](https://github.com/iAlan02/hello-LocalStack) repository to read more about how Terraform and LocalStack does it works.
