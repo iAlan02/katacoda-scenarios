@@ -26,4 +26,8 @@ Once we get the container running we can go inside our Terraform folder and star
 
 `terraform apply "plan"`{{execute}}
 
+At the end run this CURL command to test the results.
+
+`curl http://localhost:4566/restapis/hd42t2ir3o/test/_user_request_/`{{execute}}
+
 You can visit [hello--LocalStack](https://github.com/iAlan02/hello-LocalStack) repository to read more about how Terraform and LocalStack does it works.
