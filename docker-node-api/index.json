@@ -1,40 +1,40 @@
 {
-  "title": "Dockerize nodejs api",
-  "description": "Learn how to dockerize an api ",
-  "difficulty": "Beginner",
-  "time": "30",
-  "details": {
-    "steps": [
-      {
-        "title": "Step 1",
-        "text": "step1.md"
-      },
-      {
-        "title": "Step 2",
-        "text": "step2.md"
-      },
-      {
-        "title": "Step 3",
-        "text": "step3.md"
-      },
-      {
-        "title": "Step 4",
-        "text": "step4.md"
-      },
-      {
-        "title": "Step 5",
-        "text": "step5.md"
-      }
-    ],
-    "intro": {
-      "text": "intro.md"
+    "title": "Dockerize nodejs api",
+    "description": "Learn how to dockerize an api ",
+    "difficulty": "Beginner",
+    "time": "30",
+    "details": {
+        "steps": [{
+                "title": "Step 1",
+                "text": "step1.md"
+            },
+            {
+                "title": "Step 2",
+                "text": "step2.md"
+            },
+            {
+                "title": "Step 3",
+                "text": "step3.md"
+            },
+            {
+                "title": "Step 4",
+                "text": "step4.md"
+            },
+            {
+                "title": "Step 5",
+                "text": "step5.md"
+            }
+        ],
+        "intro": {
+            "text": "intro.md",
+            "courseData": "env-init.sh"
+        },
+        "finish": {
+            "text": "finish.md"
+        }
     },
-    "finish": {
-      "text": "finish.md"
+    "environment": {},
+    "backend": {
+        "imageid": "ubuntu:2004"
     }
-  },
-  "environment": {},
-  "backend": {
-    "imageid": "ubuntu:2004"
-  }
 }
