@@ -11,6 +11,10 @@ Now we need to create our working directory, in order to do that we'll indicate 
 
 `RUN mkdir -p /src/api-xample`
 
+And let's indicates that the path created is the working directory
+
+`WORKDIR /src/api-xample`
+
 Since we are using a NodeJs api we'll first copy our package.json in order to validate it and install all the modules needed
 Doing it in this way allows to first check if there's a change in the package.json and run the npm install just if it's necessary
 
