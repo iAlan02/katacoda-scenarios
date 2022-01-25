@@ -23,11 +23,15 @@ And with this done we can add the source code to our working directory, adding t
 `COPY . /src/api-xample`
 
 `RUN touch .env`
+
 `RUN echo "PORT=3000" >> .env`
+
 `RUN echo "API_KEY=apiKey9000" >> .env`
+
 `RUN npm test`
 
 The port used by our api is the 3000, so we need to expose it, so when we run the container we'll be able to publish the same port and communicate with the api.
+
 `EXPOSE 3000`
 
 
