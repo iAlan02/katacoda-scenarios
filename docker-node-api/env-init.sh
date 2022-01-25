@@ -2,4 +2,6 @@
 
 git clone https://github.com/iAlan02/api-xample.git
 
-cd api-xample
+cd api-xample/
+
+ll
