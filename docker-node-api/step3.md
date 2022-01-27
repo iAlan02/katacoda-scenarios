@@ -1,6 +1,6 @@
 # It's time to run the container
 
-For it we just need to run `docker run --name my-api -p 3000:3000 my-api-xample`{{execute}}
+For it we just need to run `docker run -d --name my-api -p 3000:3000 my-api-xample`{{execute}}
 
 Where in the flag **--name** we are indicating the name of the container, under **-p** we are publishing the port of the container with the port of the host machine, and at the end we indicates the tag of the image we builded before.
 
