@@ -1,7 +1,5 @@
 # Let's start writing the Dockerfile
 
-Go under the project folder `cd api-xample/`{{execute}}
-
 Let's run `touch Dockerfile`{{execute}} and open the result file in the editor
 
 The first line will be **FROM** where we will be indicating the parent image from which we are building,
