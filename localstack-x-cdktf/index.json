@@ -1,7 +1,7 @@
 {
     "title": "LocalStack & CDKTF",
-    "description": "A Sample Scenario",
-    "difficulty": "Learn and practice about CDKTF using LocalStack",
+    "description": "Learn and practice about CDKTF using LocalStack",
+    "difficulty": "Medium",
     "time": "15 minutes",
     "details": {
         "steps": [{

@@ -1,7 +1,7 @@
 {
     "title": "LocalStack & Terraform",
-    "description": "A Sample Scenario",
-    "difficulty": "Learn and practice about Terraform using LocalStack",
+    "description": "Learn how to deploy a Lambda and an API Gateway like you where using Amazon Web Services using Terraform and LocalStack!",
+    "difficulty": "Medium",
     "time": "15 minutes",
     "details": {
         "steps": [{
