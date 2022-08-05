@@ -19,7 +19,8 @@
         ],
         "intro": {
             "text": "intro.md",
-            "credits": ""
+            "credits": "",
+            "background": "background.sh"
         },
         "finish": {
             "text": "finish.md"
