@@ -1,8 +1,8 @@
 # Let's start writing the Dockerfile
 
-Go under the project folder ``{{execute}}
+Go under the project folder ``{{exec}}
 
-Let's run `touch Dockerfile`{{execute}} and open the result file in the editor
+Let's run `touch Dockerfile`{{exec}} and open the result file in the editor
 
 The first line will be **FROM** where we will be indicating the parent image from which we are building,
 for this exercise we need to use the node:16 image

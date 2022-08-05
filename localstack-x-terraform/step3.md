@@ -4,27 +4,27 @@ Get the code repository
 
 Now first lets create a new folder to clone the needed repository
 
-`mkdir tutorial && cd tutorial`{{execute}}
+`mkdir tutorial && cd tutorial`{{exec}}
 
-`git clone https://github.com/iAlan02/hello-LocalStack.git && cd hello-LocalStack`{{execute}}
+`git clone https://github.com/iAlan02/hello-LocalStack.git && cd hello-LocalStack`{{exec}}
 
 Let's see what is inside of the project repo.
 
-`ls`{{execute}}
+`ls`{{exec}}
 
 We need to run the compose to create the container that will be using with LocalStack to emulate our AWS local environment.
 
-`docker-compose up -d`{{execute}}
+`docker-compose up -d`{{exec}}
 
 Once we get the container running we can go inside our Terraform folder and start running Terraform commands to create our AWS resources
 
-`cd terraform`{{execute}}
+`cd terraform`{{exec}}
 
-`terraform init`{{execute}}
+`terraform init`{{exec}}
 
-`terraform plan -out plan`{{execute}}
+`terraform plan -out plan`{{exec}}
 
-`terraform apply "plan"`{{execute}}
+`terraform apply "plan"`{{exec}}
 
 At the end run this CURL command to test the results.
 

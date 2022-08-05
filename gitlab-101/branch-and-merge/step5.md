@@ -2,10 +2,10 @@
 
 ## Task
 
-`git add hello.txt`{{execute}}  
+`git add hello.txt`{{exec}}  
 
-`git commit -m 'adding in hello world script'`{{execute}}  
+`git commit -m 'adding in hello world script'`{{exec}}  
 
-`git push origin add-hello-world`{{execute}}  
+`git push origin add-hello-world`{{exec}}  
 
 Origin has our new branch.

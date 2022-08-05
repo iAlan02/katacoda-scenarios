@@ -1,12 +1,12 @@
 
-`mkdir tutorial && cd tutorial`{{execute}}
+`mkdir tutorial && cd tutorial`{{exec}}
 
-`git clone https://github.com/iAlan02/hello-cdktf && cd hello-cdktf`{{execute}}
+`git clone https://github.com/iAlan02/hello-cdktf && cd hello-cdktf`{{exec}}
 
-`ls`{{execute}}
+`ls`{{exec}}
 
-`docker-compose up -d`{{execute}}
+`docker-compose up -d`{{exec}}
 
-`cdktf plan`{{execute}}
+`cdktf plan`{{exec}}
 
-`cdktf deploy`{{execute}}
+`cdktf deploy`{{exec}}

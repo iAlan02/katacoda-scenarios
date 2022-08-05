@@ -6,8 +6,8 @@
 
 We can stage our changes in order to commit them.  
 
-`git add .`{{execute}}  
+`git add .`{{exec}}  
 
 Git will show that our file is now staged.  
 
-`git status`{{execute}}  
+`git status`{{exec}}  

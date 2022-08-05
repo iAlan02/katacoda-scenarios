@@ -1,4 +1,4 @@
-Installing Terraform.
+# Installing Terraform
 
 ## Task
 
@@ -6,20 +6,20 @@ Those steps can be found here: [Terraform installation](https://learn.hashicorp.
 
 Ensure that your system is up to date, and you have the gnupg, software-properties-common, and curl packages installed. You will use these packages to verify HashiCorp's GPG signature, and install HashiCorp's Debian package repository.
 
-`sudo apt-get update && sudo apt-get install -y gnupg software-properties-common curl`{{execute}}
+`sudo apt-get update && sudo apt-get install -y gnupg software-properties-common curl`{{exec}}
 
 Add the HashiCorp GPG key.
 
-`curl -fsSL https://apt.releases.hashicorp.com/gpg | sudo apt-key add -`{{execute}}
+`curl -fsSL https://apt.releases.hashicorp.com/gpg | sudo apt-key add -`{{exec}}
 
 Add the official HashiCorp Linux repository.
 
-`sudo apt-add-repository "deb [arch=amd64] https://apt.releases.hashicorp.com $(lsb_release -cs) main"`{{execute}}
+`sudo apt-add-repository "deb [arch=amd64] https://apt.releases.hashicorp.com $(lsb_release -cs) main"`{{exec}}
 
 Update to add the repository, and install the Terraform CLI.
 
-`sudo apt-get update && sudo apt-get install terraform`{{execute}}
+`sudo apt-get update && sudo apt-get install terraform`{{exec}}
 
 Verify that the installation worked.
 
-`terraform -help`{{execute}}
+`terraform -help`{{exec}}

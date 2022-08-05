@@ -4,14 +4,14 @@
 
 First we'll ad a new branch.  
 
-`git checkout -b add-hello-world`{{execute}}  
+`git checkout -b add-hello-world`{{exec}}  
 
 And the a file with code in there.  
 
-`echo "Hello, World!" > hello.txt`{{execute}}  
+`echo "Hello, World!" > hello.txt`{{exec}}  
 
 Let's run it!  
 
-`cat hello.txt`{{execute}}  
+`cat hello.txt`{{exec}}  
 
 Awesome, our amazing script works, we’ve added a new file, we already have new-file and new-file-2.

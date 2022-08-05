@@ -4,8 +4,8 @@
 
 We can commit the file now using a meaningful commit message.  
 
-`git commit -m "Adding in a test file"`{{execute}}  
+`git commit -m "Adding in a test file"`{{exec}}  
 
 Now we can see that there's nothing more to commit.  
 
-`git status`{{execute}}  
+`git status`{{exec}}  

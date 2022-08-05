@@ -4,10 +4,10 @@
 
 Make sure we are over our project folder.  
 
-`cd /home/scrapbook/tutorial/git/my-local/project`{{execute}}  
+`cd /home/scrapbook/tutorial/git/my-local/project`{{exec}}  
 
 Let’s make sure we’re up to date on local master with origin/master with a pull.  
 
-`git checkout master`{{execute}}  
+`git checkout master`{{exec}}  
 
-`git pull origin master`{{execute}}  
+`git pull origin master`{{exec}}  

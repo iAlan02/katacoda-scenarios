@@ -40,7 +40,7 @@ git push origin master
 git checkout add-file-2
 git checkout -b add-hello-world
 
-`echo "Hello, World!" > hello.txt`{{execute}}  
+`echo "Hello, World!" > hello.txt`{{exec}}  
 
 
 git add hello.txt

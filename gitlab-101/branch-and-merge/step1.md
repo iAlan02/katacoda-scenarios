@@ -4,16 +4,16 @@
 
 First let's make sure we are over our project folder.  
 
-`cd /home/scrapbook/tutorial/git/my-local/project`{{execute}}  
+`cd /home/scrapbook/tutorial/git/my-local/project`{{exec}}  
 
 We will find a previous file created.  
 
-`ls`{{execute}}  
+`ls`{{exec}}  
 
 Now create a branch to work over there.  
 
-`git checkout -b add-file-2`{{execute}}  
+`git checkout -b add-file-2`{{exec}}  
 
 We can work over that branch, it will be our **feature** branch.  
 
-`touch new-file-2`{{execute}}  
+`touch new-file-2`{{exec}}  

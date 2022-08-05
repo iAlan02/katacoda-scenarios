@@ -4,10 +4,10 @@
 
 Let's proceed with this.  
 
-`git add .`{{execute}}  
+`git add .`{{exec}}  
 
-`git commit -m 'wrote a script I am quite proud of that everyone should see'`{{execute}}  
+`git commit -m 'wrote a script I am quite proud of that everyone should see'`{{exec}}  
 
-`git push origin add-another-script`{{execute}}  
+`git push origin add-another-script`{{exec}}  
 
 And now imagine that we are in GitLab, let’s go ahead and merge our new branch into master.  
