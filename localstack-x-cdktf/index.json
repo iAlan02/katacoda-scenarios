@@ -6,7 +6,8 @@
     "details": {
         "steps": [{
                 "title": "Step 1 - Install CDKTF",
-                "text": "steps/step1.md"
+                "text": "steps/step1/step1.md",
+                "foreground": "steps/step1/step1.sh"
             },
             {
                 "title": "Step 2 - Install aws-cli and awsLocal",
@@ -20,7 +21,7 @@
         "intro": {
             "text": "intro/intro.md",
             "credits": "",
-            "foreground": "intro/foreground.sh"
+            "foreground": "intro/intro.sh"
         },
         "finish": {
             "text": "finish/finish.md"
