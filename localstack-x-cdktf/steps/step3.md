@@ -22,10 +22,14 @@ And now let's install the required dependencies
 
 `npm install`{{exec}}
 
-`cdktf get`{{exec}}
+Those are the more common commands to use CDKTF, you can find those in the "help" file in the code
 
-`cdktf synth`{{exec}}
+`cdktf get`{{exec}} or  `npm run get`{{exec}} will import and/or update the Terraform providers (aws, gcp, azure, etc) and modules (in this case will be aws)
 
-`cdktf diff`{{exec}}
+`cdktf synth`{{exec}} This is were the magic happens, it will create the Terraform stack in the folder cdktf.out, which is a JSON schema with all the resources and data that will be created, basically transforming the code into a Terraform stack
 
-`cdktf deploy`{{exec}}
+`cdktf diff`{{exec}} It's similar to "terraform plan", will scan for the differences between the local and remote states to create a plan to be applied
+
+`cdktf deploy`{{exec}} It will be deploy the given stack (similar to "terraform apply")
+
+`cdktf destroy` {{exec}} It destroys the stack (similar to "terraform destroy")
