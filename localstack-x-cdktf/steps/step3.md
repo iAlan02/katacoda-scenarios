@@ -33,3 +33,5 @@ Those are the more common commands to use CDKTF, you can find those in the "help
 `cdktf deploy`{{exec}} It will be deploy the given stack (similar to "terraform apply")
 
 `cdktf destroy` {{exec}} It destroys the stack (similar to "terraform destroy")
+
+To make sure your stack is working you can curl the endpoint provided in the output
